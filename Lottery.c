@@ -28,5 +28,6 @@ void main()
   }
   printf("GOODBYE");
   printf("I am view");
+  printf("Viewview");
   scanf("%d", &i);
 }
