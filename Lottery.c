@@ -28,5 +28,6 @@ void main()
   }
   printf("GOODBYE");
   printf("I am view");
+  printf("I am Kampoo");
   scanf("%d", &i);
 }
