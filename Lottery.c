@@ -28,6 +28,10 @@ void main()
   }
   printf("GOODBYE");
   printf("I am view");
+<<<<<<< HEAD
   printf("Viewview");
+=======
+  printf("I am Kampoo");
+>>>>>>> 186bc16f19eccb8460b90a31dd0595d46308fb41
   scanf("%d", &i);
 }
